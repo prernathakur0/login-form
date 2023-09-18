@@ -1,2 +1,2 @@
 # login-form
- Stylish  LoginSign up   form using HTML and CSS
+ Stylish  Login/SignUp form using HTML and CSS
